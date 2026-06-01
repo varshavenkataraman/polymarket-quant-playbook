@@ -1,0 +1,51 @@
+market_id,question,price,model_p,volume,outcome,day
+mkt_000,Will BTC close above $100k on Jan 31?,0.42,0.48,52341,1,0
+mkt_001,Will ETH ETF launch before Feb?,0.31,0.29,18230,0,1
+mkt_002,Will Fed cut rates in March 2026?,0.67,0.71,93210,1,2
+mkt_003,Will Vance announce 2028 run by Q2?,0.21,0.26,41200,1,3
+mkt_004,Will US GDP growth exceed 2.5% in Q1?,0.54,0.58,29800,1,4
+mkt_005,Will Apple release AR glasses in 2026?,0.38,0.35,15600,0,5
+mkt_006,Will Newsom run for president in 2028?,0.17,0.22,38900,0,6
+mkt_007,Will BTC hit $150k before June 2026?,0.29,0.33,71200,0,7
+mkt_008,Will Ukraine ceasefire happen in H1 2026?,0.44,0.51,124000,1,8
+mkt_009,Will OpenAI IPO in 2026?,0.52,0.55,88300,1,9
+mkt_010,Will inflation drop below 2% by mid-2026?,0.61,0.64,43100,1,10
+mkt_011,Will Tesla stock exceed $500 by March?,0.33,0.30,19800,0,11
+mkt_012,Will NBA Lakers win championship 2026?,0.14,0.17,32100,0,12
+mkt_013,Will Iran nuclear deal be signed in 2026?,0.23,0.28,55400,0,13
+mkt_014,Will Elon Musk tweet 100+ times this week?,0.71,0.75,8900,1,14
+mkt_015,Will AI replace 1M jobs by end of 2026?,0.48,0.52,67200,1,15
+mkt_016,Will S&P 500 hit 6500 in Q1 2026?,0.57,0.60,102300,1,16
+mkt_017,Will Japan enter recession in 2026?,0.31,0.27,21400,0,17
+mkt_018,Will TikTok ban be reversed?,0.44,0.49,78900,1,18
+mkt_019,Will Meta Llama 4 beat GPT-5 on benchmarks?,0.39,0.43,31200,0,19
+mkt_020,Will interest rates fall below 3% in 2026?,0.26,0.31,49800,0,20
+mkt_021,Will gold exceed $3000/oz by June?,0.63,0.67,58300,1,21
+mkt_022,Will a major bank collapse in 2026?,0.08,0.10,34100,0,22
+mkt_023,Will Nvidia stock split again in 2026?,0.41,0.45,27600,1,23
+mkt_024,Will WHO declare new pandemic in 2026?,0.12,0.09,19300,0,24
+mkt_025,Will UK rejoin EU single market?,0.07,0.09,11200,0,25
+mkt_026,Will Oscars Best Picture go to Sinners?,0.15,0.19,21800,0,26
+mkt_027,Will Super Bowl 2027 be held in Vegas?,0.68,0.71,14500,1,27
+mkt_028,Will SpaceX Starship reach orbit in 2026?,0.74,0.77,88100,1,28
+mkt_029,Will Bitcoin ETF AUM exceed $100B?,0.58,0.62,93400,1,29
+mkt_030,Will AI-generated content exceed 50% of web?,0.47,0.51,41200,1,30
+mkt_031,Will China invade Taiwan in 2026?,0.06,0.07,152300,0,31
+mkt_032,Will Dogecoin reach $1 in 2026?,0.19,0.22,38100,0,32
+mkt_033,Will US unemployment exceed 5%?,0.28,0.32,57800,0,33
+mkt_034,Will a G7 leader resign in 2026?,0.34,0.38,29400,0,34
+mkt_035,Will quantum computing break RSA in 2026?,0.04,0.05,17600,0,35
+mkt_036,Will FIFA World Cup 2026 break viewership records?,0.72,0.74,64300,1,36
+mkt_037,Will Anthropic raise at $50B+ valuation?,0.55,0.59,43100,1,37
+mkt_038,Will oil price drop below $60/barrel?,0.32,0.29,81200,0,38
+mkt_039,Will a US state legalize all drugs?,0.09,0.11,22100,0,39
+mkt_040,Will GPT-6 be released in 2026?,0.61,0.65,98700,1,40
+mkt_041,Will Mars mission launch in 2026?,0.43,0.47,31500,0,41
+mkt_042,Will Polymarket volume exceed $5B in Q2?,0.66,0.69,19800,1,42
+mkt_043,Will housing prices fall 10% nationally?,0.18,0.21,47300,0,43
+mkt_044,Will EU impose AI regulation in 2026?,0.77,0.80,63200,1,44
+mkt_045,Will first fully autonomous taxi fleet launch?,0.52,0.56,38900,1,45
+mkt_046,Will Warner Bros merge with another studio?,0.29,0.33,24100,0,46
+mkt_047,Will any country ban ChatGPT nationally?,0.22,0.19,31800,0,47
+mkt_048,Will Solana flip Ethereum in market cap?,0.16,0.20,72400,0,48
+mkt_049,Will gene therapy cure a major disease in 2026?,0.38,0.42,28700,1,49
